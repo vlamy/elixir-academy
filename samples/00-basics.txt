@@ -1,0 +1,7 @@
+# Inspire from https://learnxinyminutes.com/docs/elixir/
+# REPL --> iex
+
+# There are numbers
+3    # integer
+0x1F # integer
+3.0  # float
