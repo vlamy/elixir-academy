@@ -767,7 +767,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -925,64 +925,64 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:83.36896515px;line-height:1.25;font-family:serif;-inkscape-font-specification:serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#544568;fill-opacity:1;stroke:none;stroke-width:2.08422399"
-       x="1989.7787"
-       y="-1113.5104"
+       x="1326.7499"
+       y="-1149.5681"
        id="text1545-4"><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-1113.5104"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
-         id="tspan27234-4">Compatibility</tspan><tspan
+         x="1326.7499"
+         y="-1149.5681"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         id="tspan27234-4">Compatibility (BEAM/OTP)</tspan><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-925.61261"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-963.80609"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1435" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-821.40143"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-859.59491"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1423" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-717.19025"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-755.38373"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1441" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-612.97906"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-651.17249"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1429" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-306.04056"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
-         id="tspan1431">Productivity</tspan><tspan
+         x="1326.7499"
+         y="-420.2233"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         id="tspan1431">Productivity (if, case, try)</tspan><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-118.14282"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-234.46129"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1425" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="-13.931619"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-130.25009"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1427" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="90.279594"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="-26.038881"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1437" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="194.4908"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         x="1326.7499"
+         y="78.172325"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
          id="tspan1439" /><tspan
          sodipodi:role="line"
-         x="1989.7787"
-         y="501.42926"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:312.5px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
-         id="tspan1433">Extensibility</tspan></text>
+         x="1326.7499"
+         y="309.12152"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:250px;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';text-align:start;text-anchor:start;fill:#544568;fill-opacity:1;stroke-width:2.08422399"
+         id="tspan1433">Extensibility (Mix, UT, utils)</tspan></text>
   </g>
   <style
      id="style2996"
