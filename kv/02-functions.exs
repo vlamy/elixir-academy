@@ -3,8 +3,8 @@ iex(1)> c "02-functions.exs"
 iex(2)> KV.hello_world
 """
 defmodule KV do
-  def hello_world do
-    IO.puts(hello_world_string)
+  def hello do
+    IO.puts(hello_world_string())
   end
 
   defp hello_world_string do

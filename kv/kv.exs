@@ -12,10 +12,13 @@ defmodule KV do
   defp loop(map) do
     receive do
       {:get, key, caller} ->
+        IO.puts("receive get for key #{key}")
         send caller, Map.get(map, key)
         loop(map)
       {:put, key, value} ->
+        IO.puts("receive put for key #{key}")
         loop(Map.put(map, key, value))
     end
   end
 end
+
